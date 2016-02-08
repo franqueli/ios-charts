@@ -12,6 +12,7 @@
 //
 
 import Foundation
+import Charts
 import Realm
 
 public class RealmChartUtils: NSObject
